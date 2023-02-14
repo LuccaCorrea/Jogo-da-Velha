@@ -2,10 +2,7 @@ package jogodavelha;
 
 import java.util.Scanner;
 
-/**
- *
- * @author fabio.aglubacheski
- */
+
 public class JogoDaVelha {
 
     /**
